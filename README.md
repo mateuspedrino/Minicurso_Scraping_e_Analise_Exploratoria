@@ -1,2 +1,6 @@
 # Minicurso_Scraping_e_Analise_Exploratoria
 Esse repositório contém os arquivos do minicurso de aquisição com web scrapping e análise exploratória de dados que foi ministrado por mim e um colega da Big Data na semana de integração da engenharia elétrica da Escola de Engenharia de São Carlos da Universidade de São Paulo (EESC-USP) em parceira com a Universidade Federal de São Carlos (Ufscar) e na semana da computação do Instituto de Ciências Matemáticas e Computacionais da Universidade de São Paulo (ICMC-USP). 
+
+Na primeira metade do curso, scrapping....
+
+Na segunda metade do curso, mostrou-se algumas práticas comuns durante o pré-processamento e análise exploratória de dados antes de partir para a fase de modelagem. Essas práticas incluíram tipos das variáveis, distribuição das classes, análise de correlação, feature selection por correlação, análise de distribuições de variáveis numéricas, análise e remoção de outliers por boxplot, padronização de dados, normalização de distribuições para modelos paramétricos, e como lidar com dados ausentes e variáveis categóricass. Para isso utilizou-se os datasets de sliding window IoT e titanic do Kaggle (cujos links estão no notebook e os arquivos estão na pasta data).
